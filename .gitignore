@@ -1,4 +1,5 @@
 transactions_dataset.csv
+sales_client_relationship_dataset.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
